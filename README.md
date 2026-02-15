@@ -9,8 +9,8 @@ A prime power is a natural number that can be expressed as p^n where:
 - n is a natural number (positive integer)
 
 Examples of prime powers:
-- 2, 3, 5, 7, 11, ... (prime numbers, where n=1)
-- 4 = 2², 8 = 2³, 9 = 3², 16 = 2⁴, 25 = 5², ...
+- 2, 3, 5, 7, 11, ... (the prime numbers, where n=1)
+- 4 = 2², 8 = 2³, 9 = 3², 16 = 2⁴, 25 = 5², ... (prime power numbers)
 
 ## Installation
 
